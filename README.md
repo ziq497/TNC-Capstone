@@ -16,9 +16,9 @@ This is the Agricultural Plastics Mapping Capstone project for The Nature Conser
 
 ## Project Deliverables
 
-1. [Code](https://github.com/amelialwx/TNC-Capstone/blob/main/deliverables/Capstone_Notebook.ipynb)
-2. [Poster](https://github.com/amelialwx/TNC-Capstone/blob/main/deliverables/Capstone_Poster.pdf)
-3. [Paper](https://github.com/amelialwx/TNC-Capstone/blob/main/deliverables/Capstone_Paper.pdf)
+1. [Code](https://github.com/ziq497/TNC-Capstone/blob/main/deliverables/Capstone_Notebook.ipynb)
+2. [Poster](https://github.com/ziq497/TNC-Capstone/blob/main/deliverables/Capstone_Poster.pdf)
+3. [Paper](https://github.com/ziq497/TNC-Capstone/blob/main/deliverables/Capstone_Paper.pdf)
 4. [Web App](https://tnc-web-app.streamlit.app/)
 
 ## Project Organization
